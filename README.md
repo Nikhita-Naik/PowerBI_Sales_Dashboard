@@ -54,6 +54,4 @@ Slicers with checkbox selection
 
 Modern visual formatting
 
-💻 GitHub : 
-
-🔗 LinkedIn : 
+🔗 LinkedIn : https://www.linkedin.com/posts/nikhita-naik-12b05a332_powerbi-dataanalytics-datavisualization-activity-7404467368292245504-iX5X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOoOTMBBoGw8Rlmbi3y4F_T-_USZDw58w0
